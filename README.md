@@ -4,8 +4,6 @@
 
 플레이: https://hungerio.io
 
-![HUNGER.io](images/main.png)
-
 ## 게임 규칙
 
 - 자원 채집, 동물 사냥, 플레이어 처치로 경험치를 얻습니다.
