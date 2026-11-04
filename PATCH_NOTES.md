@@ -5,6 +5,15 @@
 
 ---
 
+## v0.18.0 · 2026-11-04
+
+**English is here! · 영어를 지원해요**
+- 브라우저 언어에 맞춰 한국어 또는 영어로 시작하고, 시작 화면 오른쪽 위 버튼으로 바꿀 수 있어요
+- The game now starts in English or Korean based on your browser. Switch any time with the button at the top right of the start screen
+- 메뉴, 안내, 직군과 스킬 설명, 동물·지역·보스 이름까지 모두 번역했어요
+
+---
+
 ## v0.17.3 · 2026-11-04
 
 - 모든 직업의 그림을 동물들과 같은 느낌으로 다듬었어요. 뾰족하던 가시·뿔·깃털이 둥글고 부드러워졌어요
